@@ -1,0 +1,9 @@
+
+Es importante por que permite registar modificaciones, revisar quien 
+modifico, mantener un historial completo de los cambios realizados
+permitiendo identificar y corregir problemas retroceder a una versión 
+anterior si es necesario . Esto facilita la resolución de conflitos y 
+evitar errores. Al mismo tiempo, permite que varios desarrolladores 
+trabajen en paralelo en un proyecto sin interferir entre sí.
+Cada desarrollador puede trabajar en su propia rama o copia del proyecto y 
+luego fusionar los cambios de manera controlada. 

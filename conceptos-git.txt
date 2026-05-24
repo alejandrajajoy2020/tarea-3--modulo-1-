@@ -1,0 +1,4 @@
+Repositorio: es un lugar o donde se guarda, organiza información de un proyecto.
+permitiendo verificar los cambion realizados y encontrar errores a tiempo.
+Commit: Crear una instantánea de los cambios preparados en el repositirio.
+Push:permite Subir commits al repositorio remoto.
